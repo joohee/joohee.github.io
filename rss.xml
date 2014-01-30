@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Joey's Haroopress Blog]]></title><description><![CDATA[My Development diary, I would love rails & javascript]]></description><link>http://joohee.github.io</link><image><url>http://joohee.github.io/public/img/favorite.png</url><title>Joey&apos;s Haroopress Blog</title><link>http://joohee.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 30 Jan 2014 06:37:51 GMT</lastBuildDate><atom:link href="http://joohee.github.io/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Welcome to haroopress]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a8618a255192bd842fdd62d099776735?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_7">환영합니다.</h3>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Joey's Haroopress Blog]]></title><description><![CDATA[My Development diary, I would love rails & javascript]]></description><link>http://joohee.github.io</link><image><url>http://joohee.github.io/public/img/favorite.png</url><title>Joey&apos;s Haroopress Blog</title><link>http://joohee.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 30 Jan 2014 06:44:48 GMT</lastBuildDate><atom:link href="http://joohee.github.io/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[첫 글]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/46ea5775501206a154390956b7d87760?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_1">새로운 글 작성 테스트입니다. <sup>_<sup>)</sup></sup></h3>
+
+<ul>
+<li>haroopad 도 잘 쓰고 있습니다. </li>
+<li>haroopress도 잘 써먹어보고 싶습니다. </li>
+</ul>
+]]></description><link>http://joohee.github.io/post/ceos-geul</link><guid isPermaLink="false">ceos-geul</guid><dc:creator><![CDATA[<a href="neigie" target="_blank">Joohee Kang</a>]]></dc:creator><pubDate>Thu, 30 Jan 2014 06:35:00 GMT</pubDate></item><item><title><![CDATA[Welcome to haroopress]]></title><description><![CDATA[<img src="http://www.gravatar.com/avatar/a8618a255192bd842fdd62d099776735?r=pg&s=48.jpg&d=identicon"><br/><h3 id="toc_9">환영합니다.</h3>
 
 <ul>
 <li>Welcome</li>
@@ -13,9 +19,9 @@
 <li>добро пожаловать</li>
 </ul>
 
-<h3 id="toc_8">Intro</h3>
+<h3 id="toc_10">Intro</h3>
 <p>하루프레스는 하루의 이야기를 블로깅하기 위한 정적 페이지 블로그 엔진입니다.</p>
-<h3 id="toc_9">Haroopress?</h3>
+<h3 id="toc_11">Haroopress?</h3>
 
 <ul>
 <li><a href="http://haroopress.com/about/">하루프레스?</a></li>
@@ -24,7 +30,7 @@
 <li><a href="http://haroopress.com/diary">하루프레스 개발 다이어리</a></li>
 </ul>
 
-<h3 id="toc_10">Usage</h3>
+<h3 id="toc_12">Usage</h3>
 
 <ul>
 <li><a href="http://haroopress.com/post/haroopress-install-guide-movie/">5분만에 설치하는 하루프레스 동영상</a></li>
@@ -35,7 +41,7 @@
 <li><a href="http://haroopress.com/post/harupeureseu-hwangyeongseoljeong-hagi/">하루프레스 환경설정 하기</a></li>
 </ul>
 
-<h3 id="toc_11">History</h3>
+<h3 id="toc_13">History</h3>
 
 <ul>
 <li><a href="https://github.com/rhiokim/haroopress/wiki/Change-History">변경 이력</a></li>
