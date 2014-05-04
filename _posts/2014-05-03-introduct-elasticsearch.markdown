@@ -74,7 +74,7 @@ $ curl -XGET 'http://localhost:9200/twitter/tweet/_search?routing=kimchy' -d '{
 }
 </code></pre>
 
-위와 같이 실행했을 때 결과는 아래와 같다. 
+- 위와 같이 실행했을 때 결과는 아래와 같다. 
 <pre><code>
 {
    "took": 6,
@@ -92,6 +92,5 @@ $ curl -XGET 'http://localhost:9200/twitter/tweet/_search?routing=kimchy' -d '{
 }
 </code></pre>
 
-_shards의 정보와 검색에 매치된 데이터를 돌려준다. hits key 안에 입력한 데이터를 리턴해준다. 
-
-검색 쪽도 정리하려니 양이 상당히 많다. 일단 이정도로 넣고 다시 수정하던가 해야겠다. 
+- _shards의 정보와 검색에 매치된 데이터를 돌려준다. hits key 안에 입력한 데이터를 리턴해준다. 
+- 검색 쪽도 정리하려니 양이 상당히 많다. 일단 이정도로 넣고 다시 수정하던가 해야겠다. 
