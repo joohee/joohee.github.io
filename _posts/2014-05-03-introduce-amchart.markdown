@@ -10,7 +10,7 @@ categories: javascript amchart
 chart library도 많고 많을 것인데, 그 중 팀에서 쓰고 있는 chart library가 있어서 소개해본다. 
 http://www.amcharts.com/
 
-수많은 demo와 예제들이 웹 사이트에서 제공되며, Pie 차트/Donut 차트/ Bar 차트 등 다양한 형태의 그래프를 제공해주고 있다. 세상은 넓고 유용한 툴들은 정말 널리고 널렸구나. 
+수많은 demo와 예제들이 웹 사이트에서 제공되며, Pie 차트/Donut 차트/ Bar 차트 등 다양한 형태의 그래프를 제공해주고 있다. 세상은 넓고 유용한 툴들은 정말 널리고 널렸구나 싶다. 
 그 중에서 정말 간단하게 사용한 Pie Chart 사용법에 대해 소개해본다. 
 
 Javascript Libray이므로 일반 html 파일을 만들어서 테스트 가능하다. 

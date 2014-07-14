@@ -28,17 +28,13 @@ https://www.found.no/foundation/Sense-Elasticsearch-interface/
 <pre><code>network :
 		host : 10.0.0.4
  </code></pre>
- 	
-    - 로그 및 데이터 경로도 별도로 지정할 수 있다. 
+ 
+	- 로그 및 데이터 경로도 별도로 지정할 수 있다. 
 <pre><code>path:
 		logs: /var/log/elasticsearch
 		data: /var/data/elasticsearch
 </code></pre>
-	-
-    
-    
-
-
+	
 ###  References
 - configuration : http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/setup-configuration.html
 
