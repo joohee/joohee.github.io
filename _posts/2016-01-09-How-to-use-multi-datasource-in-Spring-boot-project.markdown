@@ -23,14 +23,15 @@ categories: spring-boot
 	* 해당 설정이 들어있는 class 최 상단에 아래와 같은 annotation을 생성한다.
 	
 ex. MainRepositoryConfig.java
-> 
-> @Configuration
-> @EnableTransactionManagement
-> @EnableJpaRepositories(entityManagerFactoryRef = "entityManagerFactoryMain", transactionManagerRef = "transactionManagerMain", basePackages = { "com.sk.prototype.repository.main" }
-> 
-주의
+``` 
+ @Configuration
+ @EnableTransactionManagement
+ @EnableJpaRepositories(entityManagerFactoryRef = "entityManagerFactoryMain", transactionManagerRef = "transactionManagerMain", basePackages = { "com.sk.prototype.repository.main" }
+```
 
-entity 이름을 명시적으로 지정해주지 않으면 default entityManager가 생성되는데, 이 상황에서는 굳이 쓸 필요가 없다.
+	* 주의
+		entity 이름을 명시적으로 지정해주지 않으면 default entityManager가 생성되는데, 이 상황에서는 굳이 쓸 필요가 없다.
+
 DatasourceProperties.java
 
 ```
