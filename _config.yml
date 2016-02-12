@@ -1,5 +1,5 @@
 name: IT Blog
-markdown: redcarpet
+kramdown: redcarpet
 pygments: true
 permalink: pretty
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The solutions about OOM Exception."
 date:   2016-02-12 16:40:00
-categories: spring-boot
+categories: Java
 ---
 
 ### OOM이 발생한 경우 해결책 중 하나에 대한 기록. 
