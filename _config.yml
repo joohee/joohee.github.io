@@ -1,11 +1,16 @@
 name: IT Blog
-kramdown: redcarpet
-pygments: true
+markdown: kramdown
+kramdown:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+highlighter: rouge
 permalink: pretty
 
 # Oveerriden by GitHub Pages: https://help.github.com/articles/using-jekyll-with-pages#configuring-jekyll
 safe: true
-pygments: true
+highlighter: rouge
 lsi: false
 
 redcarpet:
