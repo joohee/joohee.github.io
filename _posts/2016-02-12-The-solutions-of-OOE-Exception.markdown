@@ -49,7 +49,7 @@ Thread Stack Space 문제에 의한 OOME를 해소하는 방법은 다음과 같
 http://ukja.tistory.com/61
 
 참고 : 현재 default stack trace size
-
+```
 [ec2-user@ip ~]$ java -XX:+PrintFlagsFinal -version | grep ThreadStackSize
      intx CompilerThreadStackSize                   = 0                                   {pd product}
      intx ThreadStackSize                           = 1024                                {pd product}
@@ -57,3 +57,4 @@ http://ukja.tistory.com/61
 openjdk version "1.8.0_45"
 OpenJDK Runtime Environment (build 1.8.0_45-b13)
 OpenJDK 64-Bit Server VM (build 25.45-b02, mixed mode)
+```
