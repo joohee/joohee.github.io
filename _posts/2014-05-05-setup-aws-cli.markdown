@@ -11,7 +11,7 @@ http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-lin
 
 --- 
 ## 사전 준비사항
-# CLI 툴 설치가 필요하다. 
+### CLI 툴 설치가 필요하다. 
 - wget http://s3.amazonaws.com/ec2-downloads/ec2-api-tools.zip
 - curl -O http://s3.amazonaws.com/ec2-downloads/ec2-api-tools.zip
 
